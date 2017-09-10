@@ -51,7 +51,7 @@ msgstr "Citra"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/options/ManageSaveFoldersOptionPanel.java:121
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/search/SearchCategoryUtils.java:33
 msgid "Images"
-msgstr "Citra"
+msgstr "Citra-citra"
 
 #: components/core-api/src/main/java/org/limewire/core/api/Category.java:17
 #: components/gnutella-core/src/main/java/com/limegroup/gnutella/xml/LimeXMLNames.java:144
@@ -88,13 +88,13 @@ msgstr "Lainnya"
 #: components/core-api/src/main/java/org/limewire/core/api/Category.java:20
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/util/FilePropertyKeyUtils.java:42
 msgid "Torrent"
-msgstr ""
+msgstr "Torrent"
 
 #: components/core-api/src/main/java/org/limewire/core/api/Category.java:20
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/LibraryFilterPanel.java:98
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/search/SearchCategoryUtils.java:36
 msgid "Torrents"
-msgstr ""
+msgstr "Torrent-torrent"
 
 #: components/core-api/src/main/java/org/limewire/core/api/download/DownloadItem.java:38
 msgid "There is a disk problem"
@@ -106,7 +106,7 @@ msgstr "Berkas rusak"
 
 #: components/core-api/src/main/java/org/limewire/core/api/download/DownloadItem.java:40
 msgid "The copyright holder has not authorized this for sharing"
-msgstr ""
+msgstr "Pemegang hak cipta tidak memberikan izin untuk berbagi"
 
 #: components/core-api/src/main/java/org/limewire/core/api/download/DownloadItem.java:41
 msgid "Trouble connecting to people"
@@ -473,7 +473,7 @@ msgstr "Laju bit"
 #: components/gnutella-core/src/main/java/com/limegroup/gnutella/xml/LimeXMLNames.java:112
 #: components/gnutella-core/src/main/java/com/limegroup/gnutella/xml/LimeXMLNames.java:129
 msgid "Comments"
-msgstr "Komentar"
+msgstr "Komentar-komentar"
 
 #: components/gnutella-core/src/main/java/com/limegroup/gnutella/xml/LimeXMLNames.java:113
 #: components/gnutella-core/src/main/java/com/limegroup/gnutella/xml/LimeXMLNames.java:130
@@ -760,11 +760,11 @@ msgstr ""
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:471
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:479
 msgid "Show Bug"
-msgstr "Tampilkan Kutu"
+msgstr "Tampilkan Kesalahan"
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:483
 msgid "Hide Bug"
-msgstr "Sembunyikan Kutu"
+msgstr "Sembunyikan Kesalahan"
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:491
 msgid "Ask for help on the forums"
@@ -773,11 +773,11 @@ msgstr "Meminta bantuan di berbagai forum"
 #. the "always use this answer" checkbox
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:504
 msgid "Send bugs without asking me in the future"
-msgstr "Kirim kutu tanpa beritahu saya kemudian"
+msgstr "Kirim kesalahan-kesalahan tanpa beritahu saya kembali"
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:507
 msgid "Send Bug"
-msgstr "Kirim Kutu"
+msgstr "Kirim Kesalahan"
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/support/BugManager.java:592
 msgid "Internal Error"
@@ -815,7 +815,7 @@ msgstr "Mencampur Mint..."
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/swing/Initializer.java:564
 msgid "Scouring NYC for Limes..."
-msgstr "Menyusuri NYC demi Lemon..."
+msgstr "Menyusuri NYC untuk Lemon..."
 
 #: private-components/integrated-ui/src/main/java/org/limewire/ui/swing/Initializer.java:598
 msgid "Squeezing Limes..."
@@ -949,7 +949,7 @@ msgstr "Hapus"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/action/PasteAction.java:10
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/TextFieldClipboardControl.java:68
 msgid "Paste"
-msgstr "Rekatkan"
+msgstr "Tempel"
 
 #. *
 #. * The select all action.
@@ -1046,11 +1046,11 @@ msgstr "Update kunci yang tersimpan"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/mainframe/TopPanel.java:103
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/search/BrowseStatusPanel.java:198
 msgid "Refresh"
-msgstr "Segarkan"
+msgstr "Muat Ulang"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/activation/ActivationPanel.java:528
 msgid "Refresh the list of features associated with the key"
-msgstr "Segarkan daftar fitur yang terkait dengan kunci tersebut"
+msgstr "Muat ulang daftar fitur yang terkait dengan kunci tersebut"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/activation/ActivationPanel.java:532
 msgid "Edit Account"
@@ -1163,7 +1163,7 @@ msgstr "Mojito"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/AdvancedToolsPanel.java:55
 msgid "View incoming and outgoing DHT messages"
-msgstr "Lihat pesan DHT masuk dan keluar"
+msgstr "Lihat pesan DHT yang masuk dan keluar"
 
 #. * Identifier for Advanced Tools window.
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/AdvancedToolsPanel.java:77
@@ -1256,17 +1256,17 @@ msgstr "Anda adalah node Daun"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionSummaryPanel.java:64
 msgid "You are not behind a firewall"
-msgstr "Anda tidak berada di belakang sebuah firewall"
+msgstr "Anda tidak dilindungi firewall"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionSummaryPanel.java:65
 msgid "You are behind a firewall and support firewall transfers"
 msgstr ""
-"Anda berada di belakang sebuah firewall dan mendukung pengalihan firewall"
+"Anda berada dalam lindungan firewall dan mendukung pengalihan firewall"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionSummaryPanel.java:66
 msgid "You are behind a firewall and do not support firewall transfers"
 msgstr ""
-"Anda berada di belakang sebuah firewall dan tidak mendukung pengalihan "
+"Anda berada dalam lindungan firewall dan tidak mendukung pengalihan "
 "firewall"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionSummaryPanel.java:67
@@ -1409,27 +1409,27 @@ msgstr "Pesan Keluar"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:78
 msgid "Bandwidth (I/O)"
-msgstr "Lebar pita (I/O)"
+msgstr "Bandwidth (I/O)"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:80
 msgid "Bandwidth In"
-msgstr "Lebar pita masuk"
+msgstr "Bandwidth masuk"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:82
 msgid "Bandwidth Out"
-msgstr "Lebar pita keluar"
+msgstr "Bandwidth keluar"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:84
 msgid "Dropped (I/O)"
-msgstr "Diluruhkan (I/O)"
+msgstr "Dijatuhkan (I/O)"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:86
 msgid "Dropped In"
-msgstr "Diluruhkan Masuk"
+msgstr "Dijatuhkan Masuk"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:88
 msgid "Dropped Out"
-msgstr "Diluruhkan Keluar"
+msgstr "Dijatuhkan Keluar"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/advanced/connection/ConnectionTableFormat.java:90
 msgid "Protocol"
@@ -1512,15 +1512,15 @@ msgstr ""
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/callback/GuiCallbackImpl.java:124
 #, java-format
 msgid "Warning: {0}"
-msgstr ""
+msgstr "Peringatan: {0}"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/callback/GuiCallbackImpl.java:143
 msgid "The torrent file download could not be virus scanned."
-msgstr ""
+msgstr "Berkas Torrent yang diunduh tidak dapat dipindai untuk virus"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/callback/GuiCallbackImpl.java:144
 msgid "Do you want to continue and download the torrent?"
-msgstr ""
+msgstr "Apakah Anda ingin melanjutkan dan mengunduh Torrent?"
 
 #. lower case since hyperlink
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/CheckBoxList.java:56
@@ -1628,7 +1628,7 @@ msgstr "Teman"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/RemoteHostWidget.java:207
 msgid "Web Search"
-msgstr ""
+msgstr "Pencarian Web"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/RemoteHostWidget.java:209
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/downloads/table/renderer/DownloadMessageRendererEditor.java:244
@@ -1646,7 +1646,7 @@ msgstr[0] "Pengguna P2P"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/RemoteHostWidget.java:280
 msgid "Locate"
-msgstr ""
+msgstr "Menempatkan"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/components/SplashWindow.java:116
 msgid "Loading LimeWire..."
@@ -1755,7 +1755,7 @@ msgstr "Tunda Semua"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/downloads/ResumeAllDownloadAction.java:19
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/upload/UploadHeaderPopupMenu.java:92
 msgid "Resume All"
-msgstr "Kembalikan Semua"
+msgstr "Lanjutkan Semua"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/downloads/ShowDownloadOptionsAction.java:20
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/upload/UploadHeaderPopupMenu.java:303
@@ -1801,6 +1801,8 @@ msgid ""
 "{0} is considered a dangerous file and has automatically been deleted for "
 "your protection.  <a href=\"{1}\">Learn more</a>"
 msgstr ""
+"{0} dianggap sebagai berkas berbahaya dan telah dihapus secara otomatis demi "
+"keamanan anda. <a href=\"{1}\">Pelajari lebih lanjut</a>"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/downloads/table/AVInfoPanel.java:160
 msgid "Threat Detected"
@@ -2278,19 +2280,19 @@ msgstr "Rambah Berkas Teman"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/actions/LoginAction.java:15
 msgid "Sign in"
-msgstr "Login"
+msgstr "Masuk"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/actions/LogoutAction.java:24
 msgid "Sign out"
-msgstr "Log off"
+msgstr "Keluar"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/actions/StatusActions.java:56
 msgid "&Available"
-msgstr "Tersedi&A"
+msgstr "Tersedia"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/actions/StatusActions.java:80
 msgid "&Do Not Disturb"
-msgstr "Jangan &Diganggu"
+msgstr "Jangan Diganggu"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/chat/ChatDocumentBuilder.java:102
 #, java-format
@@ -2332,7 +2334,7 @@ msgstr "Pesan dari server chatting"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/chat/ChatMediator.java:277
 #, java-format
 msgid "Chat from {0}"
-msgstr "Chatting dari {0}"
+msgstr "Pesan dari {0}"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/chat/ChatMediator.java:278
 msgid "Reply"
@@ -2341,7 +2343,7 @@ msgstr "Balas"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/chat/ChatMediator.java:297
 #, java-format
 msgid "Chat ({0})"
-msgstr "Chatting ({0})"
+msgstr "Percakapan ({0})"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/chat/ChatPopupMenu.java:97
 msgid "Open Conversation"
@@ -2481,7 +2483,7 @@ msgstr "Kesalahan jaringan."
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/login/XMPPUserEntryLoginPanel.java:132
 #, java-format
 msgid "Sign in with {0}"
-msgstr "Login dengan {0}"
+msgstr "Masuk dengan {0}"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/login/XMPPUserEntryLoginPanel.java:190
 msgid "Domain"
@@ -2503,7 +2505,7 @@ msgstr "Sandi"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/login/XMPPUserEntryLoginPanel.java:227
 msgid "Sign in when I start LimeWire"
-msgstr "Login saat saya memulai LimeWire"
+msgstr "Masuk saat saya memulai LimeWire"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/friends/login/XMPPUserEntryLoginPanel.java:276
 msgid "Choose another account"
@@ -2516,11 +2518,11 @@ msgstr "Tambah Berkas"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/AddFileAction.java:36
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/AddFileAction.java:37
 msgid "Add File(s)"
-msgstr "Tambah Berkas"
+msgstr "Tambah Berkas-berkas"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/AddFileAction.java:47
 msgid "All Files and Folders"
-msgstr "Tambah Berkas dan Folder"
+msgstr "Tambah Berkas-berkas dan Folder-folder"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/LibraryFilterPanel.java:92
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/options/ExtensionClassificationPanel.java:307
@@ -2547,12 +2549,12 @@ msgstr "Pemutaran Berkas Bermasalah"
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/LibraryPanel.java:513
 #, java-format
 msgid "{0} files"
-msgstr "{0} berkas"
+msgstr "{0} berkas-berkas"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/LibraryPanel.java:515
 #, java-format
 msgid "{0} of {1} files"
-msgstr "{0} dari {1} berkas"
+msgstr "{0} dari {1} berkas-berkas"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/PublicSharedFeedbackPanel.java:54
 msgid "Files in this list are shared anonymously with the world."
@@ -2560,7 +2562,7 @@ msgstr "Berkas dalam daftar dibagi tanpa nama ke seluruh dunia."
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/navigator/ClearAction.java:28
 msgid "Clear Files"
-msgstr "Hapus Berkas"
+msgstr "Hapus Berkas-berkas"
 
 #: private-components/swingui/src/main/java/org/limewire/ui/swing/library/navigator/ClearAction.java:39
 #, java-format
